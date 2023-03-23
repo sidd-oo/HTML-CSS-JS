@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.typing-effect-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: black;
+}
+
+.name {
+  font-size: 80px;
+  color: white;
+}
+
+.profession {
+  font-size: 60px !important;
+  color: wheat;
+}
+
+.dynamic__text {
+  font-size: 60px !important;
+  color: lightblue;
+  margin-left: 15px;
+}
